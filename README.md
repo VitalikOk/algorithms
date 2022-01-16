@@ -1,2 +1,4 @@
-# algorithms
-algorithms from courses and other
+# Algorithms - Алгоритмы
+Algorithms from courses and other
+Реализованые мно алгоритмы и решенные задачи с разлияных курсов и т.п.
+Решения не списвннвй, а реализованные из головы (но это не точно)
